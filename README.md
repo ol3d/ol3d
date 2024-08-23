@@ -4,7 +4,9 @@ My name is Adam Delo (@ol3d) and I'm a Full Stack Software Engineer with a passi
 
 ## Here are some of my Github Statistics
 
-![Github Statistics](https://github-readme-stats.vercel.app/api?username=ol3d&show_icons=true&theme=graywhite) ![Github Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=ol3d&theme=graywhite)
+![Github Statistics](https://github-readme-stats.vercel.app/api?username=ol3d&show_icons=true&theme=graywhite)
+
+![Github Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=ol3d&theme=graywhite)
 
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ol3d&theme=graywhite&layout=compact)
 
