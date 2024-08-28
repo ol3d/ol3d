@@ -8,8 +8,6 @@ My name is Adam Delo (@ol3d) and I'm a Full Stack Software Engineer with a passi
 
 ![Github Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=ol3d&theme=graywhite)
 
-![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ol3d&theme=graywhite&layout=compact)
-
 ## Other Places to Find Me
 
 - [LinkedIn](https://www.linkedin.com/in/adam-delo/)
