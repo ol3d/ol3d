@@ -1,6 +1,6 @@
 # Welcome to ol3d's Github
 
-My name is Adam Delo (@ol3d) and I'm a Full Stack Software Engineer with a passion for automation, open-source software, and cloud-based architectures. My work revolves around creating efficient, scalable, and robust solutions that push the boundaries of what's possible.
+My name is Adam Delo (@ol3d) and I'm a Senior Full Stack Software Engineer with a passion for automation, open-source software, and cloud-based architectures. My work revolves around creating efficient, scalable, and robust solutions that push the boundaries of what's possible.
 
 ## Here are some of my Github Statistics
 
